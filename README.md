@@ -8,8 +8,13 @@
 1. [SPE Projects](http://www.ipt.ntnu.no/~kleppe/pub/SPE-COMPARATIVE/) (papers and datasets)
 2. [ECLIPSE datasets](https://github.com/yohanesnuwara/reservoir-simulation/tree/master/grdecl-datasets) 
 
+## Helpful libraries
+1. [libecl](https://github.com/yohanesnuwara/libecl) (Forked repo from Equinor)
+2. [pyGRDECL](https://github.com/BinWang0213/PyGRDECL)
+3. [eclipsegrdecl2vtk](https://github.com/mvanmoer/eclipsegrdecl2vtk)
+
 ## Manuals and documentation
 1. [MRST Manual](https://www.sintef.no/contentassets/2551f5f85547478590ceca14bc13ad51/index.html)
 
 ## My exercises
-1. [MRST]() Go to my Wiki to see the results of my observations from doing MRST simulations
+1. [MRST](https://github.com/yohanesnuwara/reservoir-simulation/tree/master/mrst) Go to my Wiki to see the results of my observations from doing MRST simulations
