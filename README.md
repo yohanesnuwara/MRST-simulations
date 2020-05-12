@@ -11,7 +11,8 @@
 
 ## Simulation materials and datasets
 1. [SPE Projects](http://www.ipt.ntnu.no/~kleppe/pub/SPE-COMPARATIVE/) (papers and datasets)
-2. [ECLIPSE datasets](https://github.com/yohanesnuwara/reservoir-simulation/tree/master/grdecl-datasets) 
+2. [ECLIPSE datasets](https://github.com/yohanesnuwara/reservoir-simulation/tree/master/grdecl-datasets) (from *libecl*)
+3. [Open Porous Media datasets](https://github.com/OPM/opm-data) (including Norne & SPE projects data)
 
 ## Helpful libraries
 1. [libecl](https://github.com/yohanesnuwara/libecl) (Forked repo from Equinor)
