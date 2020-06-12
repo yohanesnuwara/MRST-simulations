@@ -21,3 +21,7 @@
 
 ## My exercises
 1. [MRST](https://github.com/yohanesnuwara/reservoir-simulation/tree/master/mrst) Go to my Wiki to see the results of my observations from doing MRST simulations
+
+## Turgay Ertekin's SPE Textbook Series No. 7 *Basic Applied Reservoir Simulation*
+
+![image](https://user-images.githubusercontent.com/51282928/84474347-e38d4b00-acb4-11ea-8179-57558702461e.png)
