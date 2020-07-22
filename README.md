@@ -1,5 +1,7 @@
 # my-reservoir-simulation
 
+This repository contains all about reservoir simulation. 
+
 ## Step-by-Step Simulator (SBS Simulator)
 
 Simulator codes are built based on explanations in *Petroleum Reservoir Simulation: A Basic Approach* by Abou-Kassem et al. Step-by-step and from scratch. 
