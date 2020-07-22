@@ -1,16 +1,20 @@
 # my-reservoir-simulation
 
-## Simulator code step-by-step and from scratch
+## Step-by-Step Simulator (SBS Simulator)
 
-Simulator codes are built based on explanations in *Petroleum Reservoir Simulation: A Basic Approach* by Abou-Kassem et al. 
+Simulator codes are built based on explanations in *Petroleum Reservoir Simulation: A Basic Approach* by Abou-Kassem et al. Step-by-step and from scratch. 
 
-> See the Python codes in this folder: [simple-simulator]()
+See the Python codes in this folder: [sbs-simulator](https://github.com/yohanesnuwara/reservoir-simulation/sbs-simulator)
 
-Step-by-step:
+Each step is coded in notebooks. Here are list of the notebooks:
 
-1. Flow formulation in a homogeneous 1D, 2D, and 3D reservoir, and single well representation
-2. 
-3. 
+1. Flow formulation in a homogeneous 1D, 2D, and 3D reservoir, and single well representation. [Notebook](https://github.com/yohanesnuwara/reservoir-simulation/blob/master/sbs-simulator/reservoir_simulation_unit2.ipynb)
+2. Simulation with block-centered grid. 
+3. Simulation with point-distributed grid.
+4. Well representation in simulation.
+5. Single-phase flow simulation.
+6. Linearization of flow equation.
+7. Basic multi-phase flow simulation.
 
 ## Highly recommended book for reservoir simulation
 1. *Petroleum Reservoir Simulation: A Basic Approach*, by Abou-Kassem et al (2006): A very basic text friendly for beginner in reservoir simulation, discussion in a practical engineering language, not rigidly mathematical
