@@ -4,6 +4,8 @@ This repository contains all about reservoir simulation.
 
 ## Step-by-Step Simulator (SBS Simulator)
 
+![image](https://user-images.githubusercontent.com/51282928/88214648-b5703300-cc84-11ea-820c-baf233353647.png)
+
 Simulator codes are built based on explanations in *Petroleum Reservoir Simulation: A Basic Approach* by Abou-Kassem et al. Step-by-step and from scratch. 
 
 See the Python codes in this folder: [sbs-simulator](https://github.com/yohanesnuwara/reservoir-simulation/sbs-simulator)
