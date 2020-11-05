@@ -1,6 +1,6 @@
 # MRST Simulations
 
-My various reservoir simulations done in Matlab Reservoir Simulation Toolbox (MRST)
+My various reservoir simulations done in Matlab Reservoir Simulation Toolbox (MRST). Can be run in Octave.
 
 Simple 3D homogeneous/heterogeneous models:
 
