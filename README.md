@@ -15,4 +15,4 @@ Simple 3D homogeneous/heterogeneous models:
 
 **Note:**
 
-* I added some Matlab functionalities used in the scripts that Octave currently doesn't have, such as `deval`. See in the `./module/nuwara` folder. 
+* I added some Matlab functionalities used in the scripts that Octave currently doesn't have, such as `deval`. See in the `./modules/nuwara` folder. 
