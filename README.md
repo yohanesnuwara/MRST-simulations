@@ -11,3 +11,4 @@ Simple 3D homogeneous/heterogeneous models:
 5. Single-phase compressible fluid (oil) simulation - constant viscosity over pressure (NO FLOW B.C.)
 6. Single-phase compressible fluid simulation with thermal effects (NO FLOW B.C.)
 
+> These scripts are adapted from MRST tutorial codes, but I have modified it.
