@@ -16,3 +16,4 @@ Simple 3D homogeneous/heterogeneous models:
 **Note:**
 
 * I added some Matlab functionalities used in the scripts that Octave currently doesn't have, such as `deval`. See in the `./modules/nuwara` folder. 
+* I experienced that `plotyy` (an Octave function) doesn't work properly. `plotyy` is used e.g. in Simulation 2 to 6 (above). To fix this, this is my way round: First, add path `addpath 'C:\Octave\Octave-5.2.0\mingw64\share\octave\5.2.0\m\plot\draw'`, then run `plotyy`. Both are done in the command line. 
