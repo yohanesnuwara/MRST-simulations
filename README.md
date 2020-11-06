@@ -19,3 +19,7 @@ Simple 3D homogeneous/heterogeneous models:
 * I experienced that `plotyy` (an Octave function) doesn't work properly. `plotyy` is used e.g. in Simulation 3 to 6 (above). To fix this, this is my way round (in the command line): 
   * Add path: `addpath 'C:\Octave\Octave-5.2.0\mingw64\share\octave\5.2.0\m\plot\draw'`
   * Run: `plotyy`
+
+<!--
+Sources to code:
+* Simulation 2 to 6 see here: https://www.sintef.no/contentassets/2551f5f85547478590ceca14bc13ad51/book.html
