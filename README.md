@@ -2,14 +2,13 @@
 
 My various reservoir simulations done in Matlab Reservoir Simulation Toolbox (MRST). Can be run in Octave.
 
-Simple 3D homogeneous/heterogeneous models:
-
-1. Hydrostatic (gravity) column of incompressible fluid > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/hydrostatic_column.m)
-2. Single-phase incompressible fluid (water) simulation (ALL B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/incompressible_heterogeneous.m)
-3. Single-phase compressible fluid (oil) simulation - constant viscosity over pressure (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_viscosity_constant.m)
-4. Single-phase compressible fluid (gas) simulation - pressure-dependent viscosity (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_viscosity_nonconstant.m)
-5. Single-phase compressible fluid (polymer) simulation - Non-Newtonian fluid (with 2 numerical methods: cell-based, or face-based) (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_NonNewtonian.m)
-6. Single-phase compressible fluid simulation with thermal effect (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_thermal.m)
+* 3D Hydrostatic (gravity) column of incompressible fluid > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/hydrostatic_column.m)
+* 3D Single-phase incompressible fluid (water) simulation (ALL B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/incompressible_heterogeneous.m)
+* 3D Single-phase compressible fluid (oil) simulation - constant viscosity over pressure (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_viscosity_constant.m)
+* 3D Single-phase compressible fluid (gas) simulation - pressure-dependent viscosity (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_viscosity_nonconstant.m)
+* 3D Single-phase compressible fluid (polymer) simulation - Non-Newtonian fluid (with 2 numerical methods: cell-based, or face-based) (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_NonNewtonian.m)
+* 3D Single-phase compressible fluid simulation with thermal effect (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_thermal.m)
+* 1D and 2D Buckley-Leverett simulation of waterflooding to an oil (dead oil) bank > [Script 1D]() and [Script 2D]()  
 
 > These scripts are adapted from MRST tutorial codes, but I have modified it.
 
