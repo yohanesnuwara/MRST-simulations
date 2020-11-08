@@ -8,7 +8,11 @@ My various reservoir simulations done in Matlab Reservoir Simulation Toolbox (MR
 * 3D Single-phase compressible fluid (gas) simulation - pressure-dependent viscosity (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_viscosity_nonconstant.m)
 * 3D Single-phase compressible fluid (polymer) simulation - Non-Newtonian fluid (with 2 numerical methods: cell-based, or face-based) (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_NonNewtonian.m)
 * 3D Single-phase compressible fluid simulation with thermal effect (NO FLOW B.C.) > [Script](https://github.com/yohanesnuwara/MRST-simulations/blob/master/simulations/compressible_thermal.m)
-* 1D and 2D Buckley-Leverett simulation of waterflooding to an oil (dead oil) bank > [Script 1D]() and [Script 2D]()  
+* Two-phase incompressible and immiscible fluid
+  * Simulation of waterflooding to an oil (dead oil) bank
+    * 1D Buckley-Leverett simulation > [Script]() 
+    * 2D Buckley-Leverett simulation > [Script]()
+    * Observation of viscous fingering > [Script]()
 
 > These scripts are adapted from MRST tutorial codes, but I have modified it.
 
