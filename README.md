@@ -23,6 +23,12 @@ My various reservoir simulations done in Matlab Reservoir Simulation Toolbox (MR
   * Add path: `addpath 'C:\Octave\Octave-5.2.0\mingw64\share\octave\5.2.0\m\plot\draw'`
   * Run: `plotyy`
 
+## Current Experimentation
+
+* MRST scripts are called from Google Colab
+* For the optimization-related scripts (e.g. `computeLorenzSPE10.m`), Python optimizers will be used > Porting Python and Octave in Google Colab
+* Utilizing GPU in Google Colab to run the MRST scripts, speeding up simulations
+
 <!--
 Sources to code:
 * Simulation 2 to 6 see here: https://www.sintef.no/contentassets/2551f5f85547478590ceca14bc13ad51/book.html
